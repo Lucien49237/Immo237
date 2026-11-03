@@ -1,0 +1,11 @@
+{
+  "name": "Immo237 – Immobilier au Cameroun",
+  "short_name": "Immo237",
+  "description": "Immobilienportal für Yaoundé und Douala",
+  "start_url": "/Immo237/",
+  "scope": "/Immo237/",
+  "display": "standalone",
+  "background_color": "#f4f8f5",
+  "theme_color": "#087f5b",
+  "lang": "fr"
+}
